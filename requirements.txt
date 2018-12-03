@@ -3,5 +3,4 @@ pymysql
 pyhive
 sqlalchemy
 pandas
-re
 scikit-learn
